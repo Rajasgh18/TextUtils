@@ -1,15 +1,15 @@
 {
-  "main.css": "/TextUtils/relativepath/static/css/main.3c6fb6b7.chunk.css",
-  "main.js": "/TextUtils/relativepath/static/js/main.effcbe6c.chunk.js",
-  "main.js.map": "/TextUtils/relativepath/static/js/main.effcbe6c.chunk.js.map",
-  "static/js/1.e45e0075.chunk.js": "/TextUtils/relativepath/static/js/1.e45e0075.chunk.js",
-  "static/js/1.e45e0075.chunk.js.map": "/TextUtils/relativepath/static/js/1.e45e0075.chunk.js.map",
-  "static/js/2.e3fa5ef2.chunk.js": "/TextUtils/relativepath/static/js/2.e3fa5ef2.chunk.js",
-  "static/js/2.e3fa5ef2.chunk.js.map": "/TextUtils/relativepath/static/js/2.e3fa5ef2.chunk.js.map",
-  "runtime~main.js": "/TextUtils/relativepath/static/js/runtime~main.98b607e7.js",
-  "runtime~main.js.map": "/TextUtils/relativepath/static/js/runtime~main.98b607e7.js.map",
-  "static/css/main.3c6fb6b7.chunk.css.map": "/TextUtils/relativepath/static/css/main.3c6fb6b7.chunk.css.map",
-  "index.html": "/TextUtils/relativepath/index.html",
-  "precache-manifest.485c42d7ff3d74c4f1abf8f433812526.js": "/TextUtils/relativepath/precache-manifest.485c42d7ff3d74c4f1abf8f433812526.js",
-  "service-worker.js": "/TextUtils/relativepath/service-worker.js"
+  "main.css": "/TextUtils/static/css/main.3c6fb6b7.chunk.css",
+  "main.js": "/TextUtils/static/js/main.effcbe6c.chunk.js",
+  "main.js.map": "/TextUtils/static/js/main.effcbe6c.chunk.js.map",
+  "static/js/1.e45e0075.chunk.js": "/TextUtils/static/js/1.e45e0075.chunk.js",
+  "static/js/1.e45e0075.chunk.js.map": "/TextUtils/static/js/1.e45e0075.chunk.js.map",
+  "static/js/2.e3fa5ef2.chunk.js": "/TextUtils/static/js/2.e3fa5ef2.chunk.js",
+  "static/js/2.e3fa5ef2.chunk.js.map": "/TextUtils/static/js/2.e3fa5ef2.chunk.js.map",
+  "runtime~main.js": "/TextUtils/static/js/runtime~main.423d3264.js",
+  "runtime~main.js.map": "/TextUtils/static/js/runtime~main.423d3264.js.map",
+  "static/css/main.3c6fb6b7.chunk.css.map": "/TextUtils/static/css/main.3c6fb6b7.chunk.css.map",
+  "index.html": "/TextUtils/index.html",
+  "precache-manifest.0f10f53376774b0faac9996bdf28ce57.js": "/TextUtils/precache-manifest.0f10f53376774b0faac9996bdf28ce57.js",
+  "service-worker.js": "/TextUtils/service-worker.js"
 }
